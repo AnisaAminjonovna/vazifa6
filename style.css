@@ -1,0 +1,38 @@
+.form{
+    max-width: 500px;
+    height: 400px;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin: auto;
+    position: relative;
+    top: 40px;
+    background-color: rgb(87, 246, 137);
+}
+
+.form_email{
+    width: 350px;
+    position: relative;
+    top: 100px;
+     background-color: rgb(213, 250, 213);
+     border: none;
+
+}
+.form_password{
+    width: 350px;
+    position: relative;
+    top: 120px;
+    background-color: rgb(213, 250, 213);
+     border: none;
+
+}
+.form_button{
+    position: relative;
+    top: 140px;
+    width: 100px;
+    background-color: rgb(252, 252, 252);
+    color: black;
+    border: none;
+}
+.form1{
+    margin-top: 100px;
+}
